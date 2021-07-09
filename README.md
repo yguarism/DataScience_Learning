@@ -5,3 +5,4 @@ Including:
 - Data Visualization
 - Jupyter Notebooks
 - Machine Learning
+- Course Projects from IBM Specialization Course
