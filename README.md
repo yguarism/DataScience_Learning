@@ -5,4 +5,5 @@ Including:
 - Data Visualization
 - Jupyter Notebooks
 - Machine Learning
+- Projects from Coursera IBM Data Science Specialization
 
